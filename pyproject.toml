@@ -7,7 +7,9 @@ authors = [
     { name = "Vlad", email = "" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "datasets>=5.0.1",
+]
 
 [project.scripts]
 awesome-jev-security = "awesome_jev_security:main"
