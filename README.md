@@ -1,0 +1,1 @@
+uv run --env-file .env jev-sec-triage/jev-triage.py
